@@ -7,7 +7,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       window.location.href = "https://www.google.com"; // Yönlendirmek istediğiniz URL
-    }, 3000); // Yönlendirme süresi 3 saniye olarak ayarlandı
+    }, 1000); // Yönlendirme süresi 3 saniye olarak ayarlandı
 
     return () => clearTimeout(timer); // Temizlik işlemi
   }, []);
