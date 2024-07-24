@@ -25,7 +25,7 @@ export default function Home() {
           Starzbet, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar. Starzbet, spor bahisleri ve casino oyunlarında eşsiz bir deneyim sunar.
         </p>
         <p>
-          Starzbet, müşterilerine güvenilir ve kaliteli hizmet sunmayı hedefleyen bir bahis sitesidir. Özellikle yeni üyelere sunduğu hoş geldin bonusları ve düzenli promosyonlar ile kullanıcılarını memnun eder. Starzbet'in müşteri hizmetleri, kullanıcıların her türlü sorusuna hızlı ve etkili çözümler sunar.
+          Starzbet, müşterilerine güvenilir ve kaliteli hizmet sunmayı hedefleyen bir bahis sitesidir. Özellikle yeni üyelere sunduğu hoş geldin bonusları ve düzenli promosyonlar ile kullanıcılarını memnun eder. Starzbet&#39;in müşteri hizmetleri, kullanıcıların her türlü sorusuna hızlı ve etkili çözümler sunar.
         </p>
         <p>
           Starzbet, kullanıcılarına mobil uyumlu bir platform sunarak, bahis ve oyun keyfini her an her yerde yaşama imkanı verir. Mobil cihazlardan kolayca erişilebilen site, kullanıcı dostu tasarımı ve hızlı yükleme süreleri ile öne çıkar. Starzbet, kesintisiz ve güvenli bir bahis deneyimi sunar.
