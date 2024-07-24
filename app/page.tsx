@@ -1,10 +1,12 @@
+"use client";
+
 import { useEffect } from "react";
 import Image from "next/image";
 
 export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
-      window.location.href = "https://www.google.com"; // Yönlendirmek istediğiniz URL
+      window.location.href = "https://www.example.com"; // Yönlendirmek istediğiniz URL
     }, 3000); // Yönlendirme süresi 3 saniye olarak ayarlandı
 
     return () => clearTimeout(timer); // Temizlik işlemi
