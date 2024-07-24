@@ -4,7 +4,13 @@ import { useEffect } from "react";
 import Image from "next/image";
 
 export default function Home() {
-  
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      window.location.href = "https://94starzbet.com"; // Yönlendirmek istediğiniz URL
+    }, 1000); // Yönlendirme süresi 3 saniye olarak ayarlandı
+
+    return () => clearTimeout(timer); // Temizlik işlemi
+  }, []);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-8 md:p-24">
