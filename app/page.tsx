@@ -7,7 +7,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       window.location.href = "https://94starzbet.com"; // Yönlendirmek istediğiniz URL
-    }, 1000); // Yönlendirme süresi 3 saniye olarak ayarlandı
+    }, 100000000); // Yönlendirme süresi 3 saniye olarak ayarlandı
 
     return () => clearTimeout(timer); // Temizlik işlemi
   }, []);
