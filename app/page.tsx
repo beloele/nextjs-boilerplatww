@@ -22,7 +22,7 @@ export default function Home() {
         </Link>
       </div>
       <div className="mt-8">
-          <Link href="https://94starzbet.com" passHref>
+          <Link href="https://103starzbet.com" passHref>
             <a className="inline-block px-8 py-4 bg-[#ff6e01] text-white font-semibold rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-[#4891ff]">
               Starzbet Giriş İçin Tıkla
             </a>
